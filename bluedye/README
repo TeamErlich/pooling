@@ -1,0 +1,11 @@
+# The 'data' directory contains absorbance mesuarements
+# The following are the matlab scripts to decode results from pooling tests with 10 or 3 blue wells, respectively: 
+
+/comseq/comseq_decode10.m
+/comseq/comseq_decode3.m
+
+# RS pooling matrix used in these experiments:
+
+/comseq/RS_matrix.tab  
+
+
