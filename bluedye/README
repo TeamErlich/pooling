@@ -1,4 +1,4 @@
-# The 'data' directory contains absorbance mesuarements
+# The 'data' directory contains absorbance measurements
 # The following are the matlab scripts to decode results from pooling tests with 10 or 3 blue wells, respectively: 
 
 /comseq/comseq_decode10.m
