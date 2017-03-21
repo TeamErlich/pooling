@@ -1,0 +1,7 @@
+# the scripts in this directory were generated for the simulations section
+
+rs.sage // generates and visualizes RS pooling designs
+
+estimate_avg_disjunctness.sage // empirical curves in Figure 5
+
+theoretical_bounds.sage // theoretical guarantee for modular columns in Figure 5
