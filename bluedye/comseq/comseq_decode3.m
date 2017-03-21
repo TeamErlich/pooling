@@ -27,7 +27,6 @@ A0 = normalizeRows(A,2)/2;
 
 tau = 0.005*max(abs(A0'*y));
 
-% adjust tau: 
 fractionalOutput = applyGPSR(y, A0, tau);
 bar(fractionalOutput)
 
